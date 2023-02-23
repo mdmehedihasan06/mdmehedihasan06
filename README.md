@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mdmehedihasan06
 - 👀 I’m interested in Software Development, Cutting Edge Tech, Up to date development frameworks and more.
-- 🌱 I’m currently learning .Net 5/6 Restful Services, Microservice, Docker, MongoDB, Redis, PostGresql, RabbitMQ, MassTransit, GRPC, Elastic Search and many more.
-- 💞️ I’m looking to collaborate with a team that works on latest technology.
+- 🌱 I’m currently working on .Net 5/6/7, Restful Services, Microservice, Docker, MongoDB, Redis, PostGresql, RabbitMQ, MassTransit, GRPC, Elastic Search and many more.
+- 💞️ I’m looking to collaborate with a team that works on latest technology and encourages career growth.
 - 📫 Reach me at smmehedi06@gmail.com
 
 <!---
