@@ -38,7 +38,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdmehedihasan06" alt="mdmehedihasan06" /></a> </p>
 
-- 🌱 I’m currently working on **.Net 5/6/7, Restful Services, Microservice, Docker, MongoDB, Redis, PostgreSQL, RabbitMQ, MassTransit, GRPC, Elastic Search, and many more.**
+- 🌱 I’m currently working on **.Net 8/7, Restful Services, Microservice, Docker, Redis, PostgreSQL, Kafka, RabbitMQ, GRPC, Elastic Search, and many more.**
 
 - 👯 I’m looking to collaborate **with a team that works on the latest technology and encourages career growth.**
 
