@@ -42,7 +42,7 @@
 
 - 👯 I’m looking to collaborate **with a team that works on the latest technology and encourages career growth.**
 
-- 📫 How to reach me **smmehedi06@gmail.com**
+- 📫 How to reach me **mehedi.cspro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
